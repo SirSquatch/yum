@@ -1,3 +1,3 @@
 class yum {
-	include [ '::yum::install' ]
+	include [ 'yum::install' ]
 }
